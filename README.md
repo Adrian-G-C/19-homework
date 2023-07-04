@@ -21,7 +21,7 @@ Our TA Pat, worked with us through the excersie in class. It was a code a long.
 
 GitHub Repo - https://github.com/Adrian-G-C/pwa-text-editor
 
-Heroku Link - https://tech-blog-adriannw14-0901c9e2ae71.herokuapp.com/login
+Heroku Link - https://pwa-text-editor-hw19nw-e21d6ddce2fa.herokuapp.com/
 
 ## Screenshot 
 
